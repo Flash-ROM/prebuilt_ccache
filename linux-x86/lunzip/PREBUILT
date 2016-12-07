@@ -1,0 +1,4 @@
+The prebuilt lunzip was built from source files inside lunzip-1.8.tar.gz.
+The lunzip-1.8.tar.gz file was dowloaded from http://download.savannah.gnu.org/releases/lzip/lunzip/.
+
+Linux build environment: x86_64, Arch Linux (precise)
